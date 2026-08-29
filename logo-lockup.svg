@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 100">
+  <g>
+    <circle cx="50" cy="50" r="48" fill="#12111A"/>
+    <g fill="none" stroke="#FFB238" stroke-width="2.4" stroke-linecap="round">
+      <path d="M50 14 L62 34 L44 34 Z" transform="rotate(0 50 50)"/>
+      <path d="M50 14 L62 34 L44 34 Z" transform="rotate(60 50 50)"/>
+      <path d="M50 14 L62 34 L44 34 Z" transform="rotate(120 50 50)"/>
+      <path d="M50 14 L62 34 L44 34 Z" transform="rotate(180 50 50)"/>
+      <path d="M50 14 L62 34 L44 34 Z" transform="rotate(240 50 50)"/>
+      <path d="M50 14 L62 34 L44 34 Z" transform="rotate(300 50 50)"/>
+    </g>
+    <circle cx="50" cy="50" r="7" fill="#5EEAD4"/>
+  </g>
+  <text x="118" y="46" font-family="Space Grotesk, Arial, sans-serif" font-size="30" font-weight="600" fill="#F5F3EE">optimized<tspan fill="#FFB238">in</tspan>vision</text>
+  <text x="118" y="70" font-family="JetBrains Mono, monospace" font-size="13" letter-spacing="3" fill="#A9A5B8">SEO · META ADS · GMB · WEB · DESIGN</text>
+</svg>
